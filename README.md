@@ -1,5 +1,5 @@
 # bitcoin-lightning-logo
-Bitcoin+LN Logo free for public use courtesy of [Shck.Network](http://shock.network)
+Bitcoin+LN Logo free for public use courtesy of [Shock.Network](http://shock.network)
 
 [Logo Manual](https://github.com/shocknet/bitcoin-lightning-logo/blob/master/Logo%20Manual.pdf)
 
