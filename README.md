@@ -10,8 +10,7 @@ Bitcoin+LN Logo free for public use courtesy of [Shock.Network](http://shock.net
 
 # bitcoin-lightning-logo Fontawesome Style (Font/SVG) 
 
-[See Amazing Demo](https://github.com/shocknet/bitcoin-lightning-logo/blob/master/Bitcoin-Ligthing-Logo-Icon/Demo.html) 
-
+See Amazing Demo in folder ./Bitcoin-Ligthing-Logo-Icon/Demo.html
 
 # No Copyright
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
